@@ -1,0 +1,16 @@
+{
+  "name": "skill-review",
+  "description": "Turn open feedback issues for a skill into a PR you review and merge",
+  "version": "0.1.0",
+  "author": {
+    "name": "MatthewDelprado"
+  },
+  "repository": "https://github.com/MatthewDelprado/Dp-Skills",
+  "license": "MIT",
+  "keywords": [
+    "feedback",
+    "review",
+    "github",
+    "pull-request"
+  ]
+}

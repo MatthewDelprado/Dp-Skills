@@ -1,0 +1,15 @@
+{
+  "name": "skill-feedback",
+  "description": "Log feedback on a skill in this repo as a GitHub issue, drafted for you to confirm",
+  "version": "0.1.0",
+  "author": {
+    "name": "MatthewDelprado"
+  },
+  "repository": "https://github.com/MatthewDelprado/Dp-Skills",
+  "license": "MIT",
+  "keywords": [
+    "feedback",
+    "github",
+    "issues"
+  ]
+}

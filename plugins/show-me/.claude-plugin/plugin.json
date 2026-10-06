@@ -1,0 +1,16 @@
+{
+  "name": "show-me",
+  "description": "Explain code, flows, refactors and changes in chat with the smallest useful view: pseudocode, call tree, component tree, file tree, Mermaid, or diff",
+  "version": "0.1.0",
+  "author": {
+    "name": "MatthewDelprado"
+  },
+  "repository": "https://github.com/MatthewDelprado/Dp-Skills",
+  "license": "MIT",
+  "keywords": [
+    "visualization",
+    "diagrams",
+    "mermaid",
+    "code"
+  ]
+}

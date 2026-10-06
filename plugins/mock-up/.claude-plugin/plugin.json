@@ -1,0 +1,16 @@
+{
+  "name": "mock-up",
+  "description": "Build a throwaway HTML preview of a UI idea in the current repo's own look and feel",
+  "version": "0.1.0",
+  "author": {
+    "name": "MatthewDelprado"
+  },
+  "repository": "https://github.com/MatthewDelprado/Dp-Skills",
+  "license": "MIT",
+  "keywords": [
+    "mockup",
+    "prototype",
+    "design-system",
+    "html"
+  ]
+}

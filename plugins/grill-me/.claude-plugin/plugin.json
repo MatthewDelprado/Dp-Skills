@@ -1,0 +1,15 @@
+{
+  "name": "grill-me",
+  "description": "Interview you about a plan one question at a time, with a live decision-tree page that keeps IDs stable",
+  "version": "0.1.0",
+  "author": {
+    "name": "MatthewDelprado"
+  },
+  "repository": "https://github.com/MatthewDelprado/Dp-Skills",
+  "license": "MIT",
+  "keywords": [
+    "interview",
+    "planning",
+    "decision-tree"
+  ]
+}
